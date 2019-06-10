@@ -1,2 +1,3 @@
 Hello Satya, what can I help for you?
-How is your devops class nowadays going?
+How is your devops class going on?
+Which topic is covering now?
